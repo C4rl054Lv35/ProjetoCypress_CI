@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/C4rl054Lv35/ProjetoCypress_CI/issues"
   },
-  "homepage": "https://github.com/C4rl054Lv35/ProjetoCypress_CI#readme"
+  "homepage": "https://github.com/C4rl054Lv35/ProjetoCypress_CI#readme",
+  "devDependencies": {
+    "cypress": "^13.8.0"
+  }
 }
